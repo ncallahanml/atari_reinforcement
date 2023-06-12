@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424c8de1-2961-4883-b554-85a8f72068fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Project4NoNoise-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Project4NoNoise-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10k_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CallahanFinalPaperCS491.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalPaper.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalPaperCode&amp;Notebook.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalPaperNotebook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4NoNoise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoCropping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/VideoCropping.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save9.joblib" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Otdc4x4VhY2CuAOvUXyJuWMX32" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424c8de1-2961-4883-b554-85a8f72068fe" name="Changes" comment="" />
+      <created>1682383887911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682383887911</updated>
+    </task>
+    <servers />
+  </component>
+</project>
