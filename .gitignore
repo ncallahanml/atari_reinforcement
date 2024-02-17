@@ -1,5 +1,9 @@
 .ipynb_checkpoints/*
 .idea/*
 runs/*
+frame_cache/*
+episode_vids/*
 
 *.mp4
+*.joblib
+*.pt
